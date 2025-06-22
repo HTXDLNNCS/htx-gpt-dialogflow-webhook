@@ -36,9 +36,7 @@ Webhook GPT cho chatbot Dialogflow - Cồn Sơn
 
 ### ⚙L️ Biến môi trường cần thiết:
 
-- `OPENAI_API_KEY` — GPT key của bạnLast login: Mon Jun 23 02:53:35 on ttys000
-tranxuyen@MacBook-Air-cua-Tran ~ % cd ~/Desktop/htx-gpt-dialogflow-webhook
-nano index.js
+- `OPENAI_API_KEY` — GPT key của bạn (lấy từ https://platform.openai.com/api-keys)
 
 
 
